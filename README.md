@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 K3czka has no idea what he is doing here :D
-
-<!--
+Learning basics of programing 
+<!-- 
 **K3czka/K3czka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
