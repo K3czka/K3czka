@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-has no idea what he is doing here
+K3czka has no idea what he is doing here :D
 
 <!--
 **K3czka/K3czka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
